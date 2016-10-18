@@ -40,7 +40,6 @@
     "npm": ">=3.3.12"
   },
   "scripts": {
-    "test": "grunt test",
-    "start":"grunt serve"
-  }
+    "test": "grunt test"
+   }
 }
